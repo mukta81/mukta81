@@ -36,6 +36,23 @@
 - Black & White Box Testing
 - Waterfall/V-Model/Agile
 
+### 📚 Certifications:
+- **Certified Tester Foundation Level (CTFL)**
+  ![CTFL](https://img.shields.io/badge/CTFL-Foundation_Level-blue?style=flat&logo=certification&logoColor=white)
+  - Issuing Organization: [International Software Testing Qualifications Board (ISTQB)](https://www.istqb.org/)
+
+- **Certified Tester Foundation Level - Agile Testing (CTFL-AT)**
+  ![CTFL-AT](https://img.shields.io/badge/CTFL--AT-Agile_Testing-blue?style=flat&logo=certification&logoColor=white)
+  - Issuing Organization: [International Software Testing Qualifications Board (ISTQB)](https://www.istqb.org/)
+
+- **Certified ScrumMaster® (CSM®)**
+  ![CSM](https://img.shields.io/badge/CSM%20Certified-ScrumMaster%20%28CSM%29-orange?style=flat&logo=scrum&logoColor=white)
+  - Issuing Organization: [Scrum Alliance](https://www.scrumalliance.org/)
+
+- **Oracle Certified Associate (OCA)**
+  ![Oracle](https://img.shields.io/badge/Oracle_Certified_Associate-Database_Administration-red?style=flat&logo=oracle&logoColor=white)
+  - Issuing Organization: [Oracle](https://www.oracle.com/education/certification/)
+
 <!--
 **Other Sections:**
 **mukta81/mukta81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
