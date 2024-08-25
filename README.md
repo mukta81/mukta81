@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 
-##🛠️ Languages and Tools:
 **Languages:**
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
-
 
 **Tools:**
 - ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -20,7 +18,9 @@
 - ![BDD](https://img.shields.io/badge/-BDD-FF69B4?style=flat&logo=behance&logoColor=white)  <!-- Using a placeholder badge here -->
 
 
+
 <!--
+**Other Sections:**
 **mukta81/mukta81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
