@@ -2,7 +2,7 @@
 
 **Languages:**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL" />
@@ -10,7 +10,7 @@
 
 **Tools:**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/-TestNG-E0A500?style=flat&logo=testng&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/-Cucumber-00D300?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
@@ -21,6 +21,20 @@
   <img src="https://img.shields.io/badge/-Zephyr-0052CC?style=flat&logo=zephyr&logoColor=white" alt="Zephyr" />
   <img src="https://img.shields.io/badge/-BDD-FF69B4?style=flat&logo=behance&logoColor=white" alt="BDD" />
 </p>
+
+## 🧪 Test Execution Skills:
+
+- System Testing
+- Integration Testing
+- Regression Testing
+- User Acceptance Testing
+- Database Testing
+- API Testing
+- Usability Testing
+- Performance Testing
+- Exploratory Testing
+- Black & White Box Testing
+- Waterfall/V-Model/Agile
 
 <!--
 **Other Sections:**
