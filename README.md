@@ -24,15 +24,9 @@
 
 ## 🧪 Test Execution Skills:
 
-- System Testing
-- Integration Testing
-- Regression Testing
-- User Acceptance Testing
-- Database Testing
-- API Testing
-- Usability Testing
-- Performance Testing
-- Exploratory Testing
+- System Testing, Integration Testing, Regression Testing
+- User Acceptance Testing, Database Testing, API Testing
+- Usability Testing, Performance Testing, Exploratory Testing
 - Black & White Box Testing
 - Waterfall/V-Model/Agile
 
@@ -52,6 +46,13 @@
 - **Oracle Certified Associate (OCA)**
   ![Oracle](https://img.shields.io/badge/Oracle_Certified_Associate-Database_Administration-red?style=flat&logo=oracle&logoColor=white)
   - Issuing Organization: [Oracle](https://www.oracle.com/education/certification/)
+
+### 🎯 Fun Facts:
+- I enjoy learning new tools and technologies.
+
+- ### 📫 Contact Me:
+- LinkedIn: https://www.linkedin.com/in/mukta-agarwal-3865117/
+- Email: mukta81.agr@gmail.com
 
 <!--
 **Other Sections:**
