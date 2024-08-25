@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**mukta81/mukta81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##🛠️ Languages and Tools:
 **Languages:**
@@ -16,6 +14,8 @@
 - ![Cucumber](https://img.shields.io/badge/-Cucumber-00D300?style=flat&logo=cucumber&logoColor=white)
 - ![Postman](https://img.shields.io/badge/-Postman-FC6C37?style=flat&logo=postman&logoColor=white)
 
+<!--
+**mukta81/mukta81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
