@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am a dedicated testing professional with over 10 years of experience in both manual and automation testing. My expertise includes requirement analysis, test strategy development, test planning, design, execution, UAT coordination, defect management, and reporting.
+
+### 🌍 Industry Experience:
+Having worked with top-tier IT firms like TCS & HCL Technologies globally, I have honed my skills in quality processes, effective communication, and stakeholder collaboration.
 
 **Languages:**
 
@@ -30,7 +34,8 @@
 - Black & White Box Testing
 - Waterfall/V-Model/Agile
 
-### 📚 Certifications: ![CTFL](https://img.shields.io/badge/CTFL-Foundation_Level-blue?style=flat&logo=certification&logoColor=white)  ![CTFL-AT](https://img.shields.io/badge/CTFL--AT-Agile_Testing-blue?style=flat&logo=certification&logoColor=white)  ![CSM](https://img.shields.io/badge/CSM%20Certified-ScrumMaster%20%28CSM%29-orange?style=flat&logo=scrum&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle_Certified_Associate-Database_Administration-red?style=flat&logo=oracle&logoColor=white)
+### 📚 Certifications: 
+![CTFL](https://img.shields.io/badge/CTFL-Foundation_Level-blue?style=flat&logo=certification&logoColor=white)  ![CTFL-AT](https://img.shields.io/badge/CTFL--AT-Agile_Testing-blue?style=flat&logo=certification&logoColor=white)  ![CSM](https://img.shields.io/badge/CSM%20Certified-ScrumMaster%20%28CSM%29-orange?style=flat&logo=scrum&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle_Certified_Associate-Database_Administration-red?style=flat&logo=oracle&logoColor=white)
 
 
 ### 🎯 Fun Facts:
