@@ -1,6 +1,8 @@
 ## Hi there 👋
 I am a dedicated testing professional with over 10 years of experience in both manual and automation testing. My expertise includes requirement analysis, test strategy development, test planning, design, execution, UAT coordination, defect management, and reporting.
 
+I also have experience developing **AI-powered desktop applications** that can automatically generate test cases, bridging automation and intelligent testing.
+
 ### 🌍 Industry Experience:
 Having worked with top-tier IT firms like TCS & HCL Technologies globally, I have honed my skills in quality processes, effective communication, and stakeholder collaboration.
 
