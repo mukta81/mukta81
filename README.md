@@ -24,6 +24,8 @@ Having worked with top-tier IT firms like TCS & HCL Technologies globally, I hav
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Zephyr-0052CC?style=flat&logo=zephyr&logoColor=white" alt="Zephyr" />
   <img src="https://img.shields.io/badge/-BDD-FF69B4?style=flat&logo=behance&logoColor=white" alt="BDD" />
+  <img src="https://img.shields.io/badge/-Cypress-17202A?style=flat&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/-CI/CD-007ACC?style=flat&logo=azuredevops&logoColor=white" alt="CI/CD" />
 </p>
 
 ## 🧪 Test Execution Skills:
