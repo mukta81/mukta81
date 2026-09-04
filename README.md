@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a dedicated testing professional with over 10 years of experience in both manual and automation testing. My expertise includes requirement analysis, test strategy development, test planning, design, execution, UAT coordination, defect management, and reporting.
 
-I also have experience developing **AI-powered desktop applications** that can automatically generate test cases, bridging automation and intelligent testing.
+I also have experience building **AI-powered QA solutions and Claude Skills** that support the end-to-end testing lifecycle. These solutions can generate test cases from requirements, assess requirement completeness, identify similar or related requirements, analyze historical defects to determine relevant regression coverage, identify the test cases that should be executed for a change, create Jira defects with supporting screenshots, and analyze code changes to understand and validate test coverage.
 
 ### 🌍 Industry Experience:
 Having worked with top-tier IT firms like TCS & HCL Technologies globally, I have honed my skills in quality processes, effective communication, and stakeholder collaboration.
