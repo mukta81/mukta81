@@ -43,11 +43,12 @@ Having worked with top-tier IT firms like TCS & HCL Technologies globally, I hav
 
 
 ### 🎯 Fun Facts:
-- I enjoy learning new tools and technologies.
+- I enjoy learning new tools and technologies always....
 
 - ### 📫 Contact Me:
 - LinkedIn: https://www.linkedin.com/in/mukta-agarwal-3865117/
 - Email: mukta81.agr@gmail.com
+- Medium Blogs: https://medium.com/@mukta.agarwal
 
 <!--
 **Other Sections:**
