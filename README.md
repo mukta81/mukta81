@@ -19,6 +19,7 @@ Having worked with top-tier IT firms like TCS & HCL Technologies globally, I hav
 <p align="left">
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/-TestNG-E0A500?style=flat&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/-Cucumber-00D300?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
   <img src="https://img.shields.io/badge/-Postman-FC6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA" />
