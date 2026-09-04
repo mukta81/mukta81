@@ -35,7 +35,7 @@ Having worked with top-tier IT firms like TCS & HCL Technologies globally, I hav
 
 - System Testing, Integration Testing, Regression Testing
 - User Acceptance Testing, Database Testing, API Testing
-- Usability Testing, Performance Testing, Exploratory Testing
+- Usability Testing, Performance Testing, Accessibility Testing and Exploratory Testing
 - Black & White Box Testing
 - Waterfall/V-Model/Agile
 
