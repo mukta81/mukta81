@@ -18,19 +18,18 @@ Having worked with top-tier IT firms like TCS & HCL Technologies globally, I hav
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-TestNG-E0A500?style=flat&logo=testng&logoColor=white" alt="TestNG" />
-  <img src="https://img.shields.io/badge/-Playwright-45BA4B?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/-TestNG-E67E22?style=flat&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/-Playwright-6C5CE7?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Cucumber-16A085?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Zephyr-7B68EE?style=flat&logo=zephyr&logoColor=white" alt="Zephyr" />
-  <img src="https://img.shields.io/badge/-BDD-E83E8C?style=flat&logo=behance&logoColor=white" alt="BDD" />
+  <img src="https://img.shields.io/badge/-Zephyr-7B61FF?style=flat&logo=zephyr&logoColor=white" alt="Zephyr" />
+  <img src="https://img.shields.io/badge/-BDD-E84393?style=flat&logo=behance&logoColor=white" alt="BDD" />
   <img src="https://img.shields.io/badge/-Cypress-17202A?style=flat&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/-CI/CD-007ACC?style=flat&logo=azuredevops&logoColor=white" alt="CI/CD" />
 </p>
-
 
 ## 🧪 Test Execution Skills:
 
